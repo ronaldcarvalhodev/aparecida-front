@@ -110,11 +110,7 @@ body {
   background-position: center; /* Centraliza a imagem no elemento */
   background-repeat: no-repeat; /* Evita a repetição da imagem */
 
-
-
-
-
-  color: #eee;
+  color: white;
 }
 .container {
   height: 55px;
