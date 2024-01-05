@@ -106,7 +106,7 @@ body {
   /* background-color: #2E3192; */
   /* background: linear-gradient(to right, #2E3192, black); */
 
- background-image: url("https://img.freepik.com/vetores-gratis/degrade-de-fundo-azul_23-2149333533.jpg?w=1380&t=st=1704459555~exp=1704460155~hmac=695ee7a059b7801c7c85d9d29220891c98d3c9dcff0e8f7007583c6926220126");
+  background-image: url('../img/azulbackground.jpg');
 
   background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
   background-position: center; /* Centraliza a imagem no elemento */
