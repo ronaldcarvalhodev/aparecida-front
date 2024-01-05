@@ -105,7 +105,9 @@ body {
   font-family: 'Montserrat', sans-serif;
   /* background-color: #2E3192; */
   /* background: linear-gradient(to right, #2E3192, black); */
-  background-image: url(https://img.freepik.com/vetores-gratis/degrade-de-fundo-azul_23-2149333533.jpg?w=1380&t=st=1704408000~exp=1704408600~hmac=eb46ec9505328892d3557edb7f02bf3bc50060627c1743934e64e55fd4946e62);
+
+ background-image: url("https://img.freepik.com/vetores-gratis/degrade-de-fundo-azul_23-2149333533.jpg?w=1380&t=st=1704459555~exp=1704460155~hmac=695ee7a059b7801c7c85d9d29220891c98d3c9dcff0e8f7007583c6926220126");
+
   background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento */
   background-position: center; /* Centraliza a imagem no elemento */
   background-repeat: no-repeat; /* Evita a repetição da imagem */
